@@ -1,0 +1,6 @@
+framework module Pods_Charu_Industries {
+  umbrella header "Pods-Charu Industries-umbrella.h"
+
+  export *
+  module * { export * }
+}
